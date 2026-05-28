@@ -1,0 +1,6 @@
+{
+  "name": "E-Santri TPQ",
+  "description": "Sistem Evaluasi Belajar Santri Digital TPA AL ASYHAR SIMA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
